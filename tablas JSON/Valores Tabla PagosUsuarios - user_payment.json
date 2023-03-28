@@ -1,0 +1,143 @@
+[
+    {
+        "id": 1, 
+        "user_id": 3, 
+        "payment_type": "Credit Card", 
+        "provider": "Master Card",
+        "account_no": "7538-7852-3596-9822", 
+        "expiry": "2024-08-01"
+    },
+    {
+        "id": 2, 
+        "user_id": 2, 
+        "payment_type": "Credit Card", 
+        "provider": "Visa",
+        "account_no": "1568-3599-0028-2866", 
+        "expiry": "2026-11-01"
+    },
+    {
+        "id": 3, 
+        "user_id": 5, 
+        "payment_type": "Online Transfer", 
+        "provider": "Paypal",
+        "account_no": "Dfirrelli@mail.com", 
+        "expiry": "9999-12-31"
+    },
+    {
+        "id": 4, 
+        "user_id": 18, 
+        "payment_type": "Credit Card", 
+        "provider": "Master Card",
+        "account_no": "5126203907841272", 
+        "expiry": "2027-02-01"
+    },
+    {
+        "id": 5, 
+        "user_id": 11, 
+        "payment_type": "Credit Card", 
+        "provider": "Master Card",
+        "account_no": "5386935279932420", 
+        "expiry": "2027-06-01"
+    },
+    {
+        "id": 6, 
+        "user_id": 15, 
+        "payment_type": "Credit Card", 
+        "provider": "Visa",
+        "account_no": "4532520499096127", 
+        "expiry": "2024-10-01"
+    },
+    {
+        "id": 7, 
+        "user_id": 14, 
+        "payment_type": "Credit Card", 
+        "provider": "DINERS",
+        "account_no": "3039244332591364", 
+        "expiry": "2024-06-01"
+    },
+    {
+        "id": 8, 
+        "user_id": 13, 
+        "payment_type": "Credit Card", 
+        "provider": "AMEX",
+        "account_no": "344227391613647", 
+        "expiry": "2028-12-01"
+    },
+    {
+        "id": 9, 
+        "user_id": 12, 
+        "payment_type": "Credit Card", 
+        "provider": "AMEX",
+        "account_no": "344227391613647", 
+        "expiry": "2028-12-01"
+    },
+    {
+        "id": 10, 
+        "user_id": 11, 
+        "payment_type": "Credit Card", 
+        "provider": "AMEX",
+        "account_no": "373254892432883", 
+        "expiry": "2029-08-01"
+    },
+    {
+        "id": 11, 
+        "user_id": 10, 
+        "payment_type": "Credit Card", 
+        "provider": "DISCOVER",
+        "account_no": "6011426325925452", 
+        "expiry": "2024-10-01"
+    },
+    {
+        "id": 12, 
+        "user_id": 21, 
+        "payment_type": "Credit Card", 
+        "provider": "UNIONPAY",
+        "account_no": "6223054964483346", 
+        "expiry": "2029-06-01"
+    },
+    {
+        "id": 13, 
+        "user_id": 9, 
+        "payment_type": "Credit Card", 
+        "provider": "DINERS",
+        "account_no": "3840485276708154", 
+        "expiry": "2028-07-01"
+    },
+    {
+        "id": 14, 
+        "user_id": 19, 
+        "payment_type": "Credit Card", 
+        "provider": "DINERS",
+        "account_no": "3840485276708154", 
+        "expiry": "2028-07-01"
+    },
+    {
+        "id": 15, 
+        "user_id": 6, 
+        "payment_type": "Credit Card", 
+        "provider": "VISA",
+        "account_no": "4110007800942496", 
+        "expiry": "2024-03-01"
+    },
+    {
+        "id": 16, 
+        "user_id": 3, 
+        "payment_type": "Credit Card", 
+        "provider": "MASTERCARD",
+        "account_no": "5376821906058270", 
+        "expiry": "2027-04-01"
+    },
+    {
+        "id": 17, 
+        "user_id": 1, 
+        "payment_type": "Credit Card", 
+        "provider": "VISA",
+        "account_no": "4485225280771998", 
+        "expiry": "2024-05-01"
+    }
+    
+   
+    ]
+
+   
+

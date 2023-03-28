@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1, 
+        "username": "wiltedkoala", 
+        "ad_password": "gracie", 
+        "first_name": "Rafael",
+        "last_name": "Neal",
+        "type_id": 4000 ,
+        "last_login": "2023-02-15 23:41:36",
+        "created_at": "2021-05-05 09:55:21",
+        "modified_at": "2021-05-05 09:55:21"
+        
+
+    },
+    {
+        "id": 2, 
+        "username": "pizzamoney", 
+        "ad_password": "knock", 
+        "first_name": "Gabriella",
+        "last_name": "Beck",
+        "type_id": 3000 ,
+        "last_login": "2023-02-17 21:45:32",
+        "created_at": "2021-05-05 18:55:21",
+        "modified_at": "2021-05-05 18:55:21"
+    },
+    {
+        "id": 3, 
+        "username": "competetabasco", 
+        "ad_password": "iwantu", 
+        "first_name": "Jack",
+        "last_name": "Hernandez",
+        "type_id": 5000 ,
+        "last_login": "2023-02-17 21:45:32",
+        "created_at": "2021-05-05 18:55:21",
+        "modified_at": "2021-05-05 18:55:21"
+    },
+    {
+        "id": 4, 
+        "username": "olliegainful", 
+        "ad_password": "nancy1", 
+        "first_name": "Tonya",
+        "last_name": "Medina",
+        "type_id": 2000 ,
+        "last_login": "2023-02-18 18:45:22",
+        "created_at": "2021-05-05 18:55:21",
+        "modified_at": "2021-05-05 18:55:21"
+    },
+    {
+        "id": 5, 
+        "username": "taxpayerclam", 
+        "ad_password": "phyllis", 
+        "first_name": "Seth",
+        "last_name": "Mendoza",
+        "type_id": 1000 ,
+        "last_login": "2023-02-18 18:45:22",
+        "created_at": "2021-05-05 18:55:21",
+        "modified_at": "2021-05-05 18:55:21"
+    }
+    
+    ]
+
+   
+

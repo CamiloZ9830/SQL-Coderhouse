@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "session_id": 1, 
+        "product_id": 4,
+        "quantity": 1,
+        "created_at": "2022-02-28 15:10:48",
+        "modified_at": "2022-02-28 15:44:30"
+    },
+    {
+        "id": 2,
+        "session_id": 2, 
+        "product_id": 7,
+        "quantity": 1,
+        "created_at": "2022-02-28 15:12:24",
+        "modified_at": "2022-02-28 15:44:30"
+    },
+    {
+        "id": 3,
+        "session_id": 2, 
+        "product_id": 11,
+        "quantity": 1,
+        "created_at": "2022-05-18 13:18:06",
+        "modified_at": "2022-05-18 15:15:56"
+    },
+    {
+        "id": 4,
+        "session_id": 3, 
+        "product_id": 3,
+        "quantity": 4,
+        "created_at": "2022-06-16 11:12:58",
+        "modified_at": "2022-06-16 12:56:15"
+    },
+    {
+        "id": 5,
+        "session_id": 4, 
+        "product_id": 14,
+        "quantity": 8,
+        "created_at": "2022-11-26 12:26:58",
+        "modified_at": "2022-11-26 12:56:15"
+    },
+    {
+        "id": 6,
+        "session_id": 5, 
+        "product_id": 18,
+        "quantity": 3,
+        "created_at": "2023-01-02 16:25:03",
+        "modified_at": "2023-01-02 16:45:16"
+    },
+    {
+        "id": 7,
+        "session_id": 6, 
+        "product_id": 11,
+        "quantity": 1,
+        "created_at": "2023-01-02 16:29:03",
+        "modified_at": "2023-01-02 16:42:16"
+    },
+    {
+        "id": 8,
+        "session_id": 6, 
+        "product_id": 20,
+        "quantity": 2,
+        "created_at": "2023-01-02 16:02:03",
+        "modified_at": "2023-01-02 16:13:16"
+    },
+    {
+        "id": 9,
+        "session_id": 7, 
+        "product_id": 7,
+        "quantity": 2,
+        "created_at": "2023-01-02 16:56:03",
+        "modified_at": "2023-01-02 16:55:16"
+    },
+    {
+        "id": 10,
+        "session_id": 8, 
+        "product_id": 15,
+        "quantity": 4,
+        "created_at": "2023-01-02 16:02:03",
+        "modified_at": "2023-01-02 16:11:16"
+    },
+    {
+        "id": 11,
+        "session_id": 8, 
+        "product_id": 12,
+        "quantity": 3,
+        "created_at": "2023-01-02 16:03:03",
+        "modified_at": "2023-01-02 16:46:16"
+    },
+    {
+        "id": 12,
+        "session_id": 9, 
+        "product_id": 4,
+        "quantity": 1,
+        "created_at": "2023-01-02 16:15:03",
+        "modified_at": "2023-01-02 16:18:16"
+    }
+    ]
+
+   
+

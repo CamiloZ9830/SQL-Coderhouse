@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1000, 
+        "admin_type": "Tech Admin", 
+        "permisos": "Mantenimiento, Actualizaciones, Seguridad", 
+        "created_at": "2021-02-17 10:00:00",
+        "modified_at": "2021-02-17 10:00:00"
+    },
+    {
+        "id": 2000, 
+        "admin_type": "Super Admin", 
+        "permisos": "Modificar el Website, Administrativo, Maneja otros Admin", 
+        "created_at": "2021-02-17 10:01:03",
+        "modified_at": "2021-02-17 10:00:00"
+    },
+    {
+        "id": 3000, 
+        "admin_type": "Store Manager", 
+        "permisos": "Agregar y editar productos, manejar inventario, Procesar ordenes", 
+        "created_at": "2021-02-17 10:01:20",
+        "modified_at": "2021-02-17 10:00:00"
+    },
+    {
+        "id": 4000, 
+        "admin_type": "Customer Service", 
+        "permisos": "Feedback, Soporte al Usuario, Quejas", 
+        "created_at": "2021-02-17 10:01:45",
+        "modified_at": "2021-02-17 10:00:00"
+    },
+    {
+        "id": 5000, 
+        "admin_type": "Payment Admin", 
+        "permisos": "Manejar transacciones,  Devoluciones, Chargebacks", 
+        "created_at": "2021-02-17 10:02:10",
+        "modified_at": "2021-02-17 10:00:00"
+    }
+   
+    
+    ]
+
+   
+
